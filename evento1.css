@@ -1,0 +1,17 @@
+*{
+	background:#000030;
+}
+
+.evento h1{
+	font-size: 50px;
+	font-family: "anton";
+	color: #dcdcdc;
+}
+.evento h3{
+	font-family: "anton";
+	color: #dcdcdc;
+}
+.evento img{
+	float:left;
+}
+
